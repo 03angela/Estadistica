@@ -1,0 +1,8 @@
+fastapi
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+uvicorn
+jinja2
